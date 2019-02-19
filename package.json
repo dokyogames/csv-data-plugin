@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
-    "csv": "5.1.1"
+    "csv": "0.3.x"
   }
 }
